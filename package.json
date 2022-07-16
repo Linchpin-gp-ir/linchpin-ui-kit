@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "linchpin-ui-kit",
+  "name": "@linchpin2022/linchpin-ui-kit",
   "author": "mojirzg",
   "module": "dist/linchpin-ui-kit.esm.js",
   "size-limit": [
